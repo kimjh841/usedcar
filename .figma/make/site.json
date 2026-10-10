@@ -1,0 +1,10 @@
+{
+  "description": "Offers an enhanced user interface for browsing and purchasing used cars, improving the buying experience based on the Encar platform.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
